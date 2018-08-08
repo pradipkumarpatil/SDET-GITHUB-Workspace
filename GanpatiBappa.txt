@@ -1,0 +1,14 @@
+
+Ganapti Bappa Moraya
+Ala re Ala Ganapati Ala :)
+1, 2 3, 4 Ganpati cha jai Jai kar :)
+<<<<<<< HEAD
+
+Changes for Local Repository
+
+Changes for Stagging
+
+Changes in Workspace
+=======
+Changes in GITHUB
+>>>>>>> refs/remotes/origin/master
